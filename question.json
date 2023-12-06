@@ -5,3 +5,11 @@
   "answer": 0,
   "explanation": "La michelada, originaria de México, nacida de la creatividad y el deseo de refrescar, se convirtió en una popular bebida que cautivó a los amantes de la cerveza con su combinación única de sabores y su espíritu festivo."
 }
+
+{
+  "category": "Cultura",
+  "question": "Quien es el autor de Harry Potter?",
+  "options": [" conan doyle", "Jorge Luis Borges", "J. K. Rowling"],
+  "ansuer": 2,
+  "explanation": "Harry Potter es una serie de novelas fantásticas escrita por la autora británica J. K. Rowling"
+}
